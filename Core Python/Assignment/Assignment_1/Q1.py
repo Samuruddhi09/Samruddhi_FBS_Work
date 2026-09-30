@@ -11,3 +11,11 @@ total = S1+S2+S3+S4+S5
 percentage = (total/500)*100 #Assuming that each subject's max marks is 100
 
 print ('Percentage of student is: ', percentage)
+
+
+# Enter Marks for Subject 1: 80
+# Enter Marks for Subject 2: 65
+# Enter Marks for Subject 3: 55
+# Enter Marks for Subject 4: 90
+# Enter Marks for Subject 5: 85
+# Percentage of student is:  75.0
